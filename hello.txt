@@ -1,0 +1,6 @@
+hello zll
+iii1rpm -qa|grep vimrpm -qa|grep vimrpm -qa|grep vim
+iii1rpm -qa|grep vimrpm -qa|grep vimrpm -qa|grep vim
+iii1rpm -qa|grep vimrpm -qa|grep vimrpm -qa|grep vim
+iii1rpm -qa|grep vimrpm -qa|grep vimrpm -qa|grep vim
+
